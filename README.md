@@ -6,11 +6,14 @@ In this project I will implement things I will learn
 ### To be implemented
 - [ ] Statistics about url visits.
   - [ ] Number of visits.
-  - [ ] Type of device clicked on url.
+  - [x] Type of device clicked on url.
+  - [ ] Ip address.
+  - [x] Time
   - [ ] From which platform. (How to know that?)
-    - [ ] Maybe generate differnt shorturls (add flags)
-  - [ ] 
+    - [ ] Maybe generate differnt shorturls (add flags) 
 - [ ] Global Exception handling the proper way.
+  - [x] ResourceNotFound.
+  - [ ] DuplicateEntry.
 - [ ] Frontend:
   - [ ] UI to generate short urls.
   - [ ] UI to share genereated short urls.
