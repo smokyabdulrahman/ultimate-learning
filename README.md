@@ -25,3 +25,10 @@ In this project I will implement things I will learn
   - [ ] Delete short urls
   - [ ] See statistics of shorturls
   - [ ] Auth only shorturls (user must be logged in and in list to be able to go to the destination).
+
+## Design Patterns
+
+### Builder Pattern
+in this project i will be implementing a Cron job builder, it's really simple and dumb, but just to excersie how this pattern is done + make something useful out of it.
+> You can find files regarding this project @ /design-patterns/builder
+
